@@ -1,0 +1,34 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Logiprom F5 Type 1
+
+## Skin
+
+### Label
+Label_8270A9AA_98FA_D037_41CF_B006F9B3B68B.text = F5 Type 1
+
+## Media
+
+### Title
+panorama_70100083_6022_FD37_41D5_4DC94729F50A.label = Entrée
+panorama_70102297_6022_1D5F_41C5_82729E24ECF0.label = Salle d'eau 2
+panorama_70105412_6022_0551_41D4_F2447D52A9F3.label = Wc
+panorama_70107866_6022_0DF1_419E_1B3EBAC3FC8F.label = Salle d'eau 1
+panorama_7010C680_6022_0531_41CA_5818B37EC312.label = Salle à manger
+panorama_7010CE0C_6022_0530_41D4_808D393DE4FC.label = Séjour
+panorama_7010DC54_6022_05D0_41C2_4A743A7E7423.label = Salon
+panorama_7010EB45_6022_0330_41B7_A17AE46FC8E8.label = Cuisine
+panorama_701CB649_6022_0533_4199_F7310563F421.label = Chambre 2
+panorama_71205C5D_6022_05D0_41D1_CBF3AA312C7E.label = Chambre 1
+panorama_735780EA_602E_FEF1_41D2_BD5B6734AB5C.label = Chambre 3
+panorama_75EE7FBA_6026_0351_41C6_F592972DA9D3.label = Chambre 4
+
+## Action
+
+### URL
+LinkBehaviour_52C44723_5FE2_0370_41C3_ED558FF9FA90.source = https://linktr.ee/logiprom
